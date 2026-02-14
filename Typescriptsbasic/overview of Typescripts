@@ -1,0 +1,63 @@
+TypeScript Overview + Roadmap
+
+TypeScript is a strongly typed programming language developed by Microsoft that builds on JavaScript by adding static typing, interfaces, classes, and modern programming features. It is called a superset of JavaScript because any JavaScript code can run inside TypeScript, but TypeScript provides extra features that help developers write safer and more structured code. The main goal of TypeScript is to detect errors during development instead of runtime, which makes applications more reliable and easier to maintain. It is widely used in modern web development with frameworks like Angular, React, and Node.js. TypeScript code is written in .ts files and then compiled into JavaScript using the TypeScript compiler so it can run in browsers or servers. Because of its strong typing and object-oriented features, TypeScript improves code readability, scalability, and debugging, making it a preferred choice for large and professional software projects.
+
+🚀 TypeScript Roadmap (Beginner to Advanced)
+1️. Basics (Start here)
+----------------------------
+What is TypeScript
+Installing TypeScript
+Variables and data types
+string, number, boolean
+array and tuple
+any, unknown, void
+
+2️.Functions & Objects
+----------------------------
+Function types
+Optional parameters
+Default parameters
+Arrow functions
+Object types
+Type alias
+
+3️.Advanced Types
+--------------------------
+Union types
+Intersection types
+Enum
+Literal types
+Type casting
+
+4️.OOP in TypeScript (Very important)
+------------------------------------------
+Classes and objects
+Constructor
+Inheritance
+Interface
+Access modifiers
+public
+private
+protected
+
+5️. Modules & ES6
+--------------------------------
+Import and export
+Modules in TypeScript
+Template strings
+Spread operator
+
+6️. Real Development Use
+--------------------------------------
+TypeScript with Node.js
+TypeScript with React
+API handling
+Project structure
+
+7️. Advanced/Interview Level
+------------------------------------
+Generics
+Decorators
+TypeScript config (tsconfig)
+Error handling
+Best practices
