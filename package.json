@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "��#\u0000 \u0000t\u0000y\u0000p\u0000e\u0000_\u0000S\u0000c\u0000r\u0000i\u0000p\u0000t\u0000\r\u0000 \u0000",
   "main": "app.js",
+
   "scripts": {
     "start": "node src/index.js",
-    "dev":"npx"
+    "dev": "npx"
   },
   "repository": {
     "type": "git",
@@ -14,11 +15,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/kartiksharma76/type_Script/issues"
   },
   "homepage": "https://github.com/kartiksharma76/type_Script#readme",
   "devDependencies": {
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "axios": "^1.13.5"
   }
 }
